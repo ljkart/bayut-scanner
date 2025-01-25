@@ -2,4 +2,4 @@
 
 ##### How to run
 
-`uv run streamlit run main.py`
+`uv run streamlit run main.py --server.port 3000`
